@@ -1,0 +1,2 @@
+# github-oto
+new lecture
